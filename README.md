@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Data Science and Machhine Learning.
+🔭 I’m currently working on Data Science and Machine Learning.
 - I'm fascinated towards Mathematics
 - I belive _**Data is the new Oil**_
