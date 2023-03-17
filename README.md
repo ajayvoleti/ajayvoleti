@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Ajay Voleti
 <!--
 **ajayvoleti/ajayvoleti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Data Science
+🔭 I’m currently working on Data Science and Machhine Learning.
+- I'm fascinated towards Mathematics
+- I belive _**Data is the new Oil**_
